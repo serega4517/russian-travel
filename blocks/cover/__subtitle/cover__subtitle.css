@@ -2,14 +2,11 @@
   max-width: 360px;
   font-style: normal;
   font-weight: normal;
+  text-align: center;
   font-size: 18px;
   line-height: 22px;
-  grid-column: 1/2;
-  grid-row: 2/3;
-  align-self: start;
-  justify-self: center;
   margin: 32px 0 0;
-  text-align: center;
+  z-index: 1;
 }
 
 @media screen and (max-width: 767px) {
@@ -17,5 +14,6 @@
     max-width: 288px;
     font-size: 14px;
     line-height: 16px;
+    margin-top: 16px;
   }
 }

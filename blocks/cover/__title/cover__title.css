@@ -6,10 +6,7 @@
   font-size: 72px;
   line-height: 76px;
   text-align: center;
-  grid-column: 1;
-  grid-row: 1;
-  align-self: end;
-  justify-self: center;
+  z-index: 1;
 }
 
 @media screen and (max-width: 767px) {

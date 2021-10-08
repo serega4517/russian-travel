@@ -10,7 +10,7 @@
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .place {
     max-width: 928px;
     grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
@@ -18,7 +18,7 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .place {
     margin-bottom: 73px;
     max-width: 720px;
@@ -27,7 +27,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .place {
     margin-bottom: 50px;
     max-width: 320px;
