@@ -10,7 +10,6 @@
 
 .header__lang-link:first-child {
   margin-left: 0;
-  text-decoration: underline;
 }
 
 .header__lang-link:hover {
